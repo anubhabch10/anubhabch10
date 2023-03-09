@@ -1,5 +1,19 @@
 <![MasterHead](https://wallpaperaccess.com/full/1426870.png)]>
-<h1 align="center"></h1>
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
+<!-- markdownlint-enable MD033 -->
+
+```md
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Anubhab+Chaudhuri;Welcome+to+my+Profile.)](https://git.io/typing-svg)
+```
+
 <h3 align="center">A Machine Learning enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg">
 

@@ -1,4 +1,4 @@
-<![MasterHead]([https://wallpaperaccess.com/full/1426870.png](https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif))]>
+<![MasterHead]([https://wallpaperaccess.com/full/1426870.png])]>
 <h1 align="center">Hi there 👋, I am Anubhab Chaudhuri</h1>
 <h3 align="center">A Machine Learning enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg">

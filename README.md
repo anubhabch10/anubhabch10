@@ -41,4 +41,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhabch10&show_icons=true&locale=en" alt="anubhabch10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhabch10&" alt="anubhabch10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhabch10&theme=blue-green" width="380" alt="anubhabch10" /></p>|
+| --- | --- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&locale=en&layout=compact&theme=blue-green" width="680" alt="anubhabch10" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anubhabch10&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) |
+
+<p align="left">
+  <img src="https://github.com/anubhabch10/anubhabch10/raw/output/github-contribution-grid-snake.svg" alt="snake"></left>
+</p>
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

@@ -8,6 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/anubhabfcb" target="blank"><img src="https://img.shields.io/twitter/follow/anubhabfcb?logo=twitter&style=for-the-badge" alt="anubhabfcb" /></a> </p>
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 - 🔭 I’m currently working on **AI,ML,DL,NLP,Computer Vision,etc**
 
 - 🌱 I’m currently learning **everything as there is no end of learning**

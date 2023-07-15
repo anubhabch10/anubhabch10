@@ -11,6 +11,8 @@
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<a href="https://app.daily.dev/anubhabch10"><img src="https://api.daily.dev/devcards/e367f12f65a74a63be22b3ef1642a23c.png?r=vdd" width="400" alt="Anubhab Chaudhuri's Dev Card"/></a>
+
 - 🔭 I’m currently working on **AI,ML,DL,NLP,Computer Vision,etc**
 
 - 🌱 I’m currently learning **everything as there is no end of learning**

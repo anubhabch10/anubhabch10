@@ -1,7 +1,7 @@
 [![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif)]
 <h1 align="center">Hi there 👋, I am Anubhab Chaudhuri</h1>
 <h3 align="center">A Machine Learning enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg">
+<a href="https://app.daily.dev/anubhabch10"><img src="https://api.daily.dev/devcards/e367f12f65a74a63be22b3ef1642a23c.png?r=vdd" width="400" alt="Anubhab Chaudhuri's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhabch10&label=Profile%20views&color=0e75b6&style=flat" alt="anubhabch10" /> </p>
 
@@ -11,7 +11,8 @@
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<a href="https://app.daily.dev/anubhabch10"><img src="https://api.daily.dev/devcards/e367f12f65a74a63be22b3ef1642a23c.png?r=vdd" width="400" alt="Anubhab Chaudhuri's Dev Card"/></a>
+
+<img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg">
 
 - 🔭 I’m currently working on **AI,ML,DL,NLP,Computer Vision,etc**
 
